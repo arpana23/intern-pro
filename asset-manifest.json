@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/intern-pro/static/css/main.96d61a22.chunk.css",
+    "main.js": "/intern-pro/static/js/main.9179b008.chunk.js",
+    "main.js.map": "/intern-pro/static/js/main.9179b008.chunk.js.map",
+    "runtime-main.js": "/intern-pro/static/js/runtime-main.80dec1e9.js",
+    "runtime-main.js.map": "/intern-pro/static/js/runtime-main.80dec1e9.js.map",
+    "static/js/2.cc505692.chunk.js": "/intern-pro/static/js/2.cc505692.chunk.js",
+    "static/js/2.cc505692.chunk.js.map": "/intern-pro/static/js/2.cc505692.chunk.js.map",
+    "index.html": "/intern-pro/index.html",
+    "precache-manifest.762c2b959f7e8b9c5f46402b6906dc58.js": "/intern-pro/precache-manifest.762c2b959f7e8b9c5f46402b6906dc58.js",
+    "service-worker.js": "/intern-pro/service-worker.js",
+    "static/css/main.96d61a22.chunk.css.map": "/intern-pro/static/css/main.96d61a22.chunk.css.map",
+    "static/js/2.cc505692.chunk.js.LICENSE.txt": "/intern-pro/static/js/2.cc505692.chunk.js.LICENSE.txt",
+    "static/media/Homesec.css": "/intern-pro/static/media/supplier-pc-img.2d8361e6.png",
+    "static/media/Works.css": "/intern-pro/static/media/bg_main.ec13b457.png",
+    "static/media/Home.css": "/intern-pro/static/media/exciting_img-12.860c2add.png",
+    "static/media/Footer.css": "/intern-pro/static/media/footer_bg.f87cdbd7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80dec1e9.js",
+    "static/js/2.cc505692.chunk.js",
+    "static/css/main.96d61a22.chunk.css",
+    "static/js/main.9179b008.chunk.js"
+  ]
+}
