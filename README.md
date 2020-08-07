@@ -1,4 +1,4 @@
-deployment link  https://arpana23.github.io/intern-pro/
+deployment link-  https://arpana23.github.io/intern-pro/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
